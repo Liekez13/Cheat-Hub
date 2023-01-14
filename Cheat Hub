@@ -112,3 +112,4 @@ elseif game.PlaceId == 3956818381 then
             wait(0.5)
         end
     end)
+end
